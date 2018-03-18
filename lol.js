@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "Minarchism",
         "stats": {
             "econ": 20,
             "dipl": 50,
